@@ -1,0 +1,1 @@
+C:\Users\James\source\repos\MauiPractice\MauiPractice.csproj;x64

@@ -24015,11 +24015,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\James\\source\\repos\\MauiPractice\\MauiPractice.csproj",
+      "projectUniqueName": "C:\\Users\\James\\Documents\\GitHub\\Maui-Practice\\MauiPractice\\MauiPractice.csproj",
       "projectName": "MauiPractice",
-      "projectPath": "C:\\Users\\James\\source\\repos\\MauiPractice\\MauiPractice.csproj",
+      "projectPath": "C:\\Users\\James\\Documents\\GitHub\\Maui-Practice\\MauiPractice\\MauiPractice.csproj",
       "packagesPath": "C:\\Users\\James\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\James\\source\\repos\\MauiPractice\\obj\\",
+      "outputPath": "C:\\Users\\James\\Documents\\GitHub\\Maui-Practice\\MauiPractice\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [

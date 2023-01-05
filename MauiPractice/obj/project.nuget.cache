@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zu1UNZsE7IG3UMEbfYppYBLltw1mxSipTLVLErjddTn/LomKWGpOLpAhtkSZtz2cU/ZQSUnNcIWfNkBar4/KHw==",
+  "dgSpecHash": "hJw6n3ielWJqNdq5Y4loDkfJZlj4ZlCt7y0KVWlOH3C4vAuYhS5ZzTo/uCCFvfRQ9y0b1nxMfFSdYQxUk3+adA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\James\\source\\repos\\MauiPractice\\MauiPractice.csproj",
+  "projectFilePath": "C:\\Users\\James\\Documents\\GitHub\\Maui-Practice\\MauiPractice\\MauiPractice.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\James\\.nuget\\packages\\googlegson\\2.9.1.1\\googlegson.2.9.1.1.nupkg.sha512",
     "C:\\Users\\James\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",

@@ -21,6 +21,7 @@ public partial class MainPage : ContentPage
 		SemanticScreenReader.Announce(CounterBtn.Text);
 		//test
 		//test2
+		//test3
 	}
 }
 
